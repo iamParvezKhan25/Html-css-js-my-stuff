@@ -1,0 +1,38 @@
+/*
+  selected tag{
+  propety: value;
+}
+*/
+h1{
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+}
+.art{
+  margin: auto;
+}
+td{
+  background-color: black;
+  height: 300px;
+  width: 150px;
+  border: 5px solid white;
+}
+
+#one{
+  background-color: #d53b39;
+}
+
+#two{
+  background-color: #60afaa;
+}
+
+#three{
+  background-color: #4e8380;
+}
+
+#four{
+  background-color: #34414b;
+}
+
+#five{
+  background-color: #729694;
+}
